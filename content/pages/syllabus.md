@@ -24,8 +24,45 @@ Students are expected to give oral presentations in class based on a selected jo
 Grading
 -------
 
-| ACTIVITIES | BREAKDOWN |
-| --- | --- |
-| Class Presentations and Participation | 1/3 of grade |
-| Mid-term Test | 1/3 of grade |
-| Final Examination | 1/3 of grade
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+BREAKDOWN
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Presentations and Participation
+{{< tdclose >}}
+{{< tdopen >}}
+1/3 of grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term Test
+{{< tdclose >}}
+{{< tdopen >}}
+1/3 of grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Examination
+{{< tdclose >}}
+{{< tdopen >}}
+1/3 of grade
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
